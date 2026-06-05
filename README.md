@@ -1,5 +1,6 @@
 # project-II
 Practice of javascript by making calculator 
+``` html
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -34,7 +35,8 @@ Practice of javascript by making calculator
 </body>
 </html>
 
-
+```
+``` css
 
 *{
     margin: 0;
@@ -87,7 +89,8 @@ body{
 .btn:active{
     transform: translateY(2px);
 }
-
+```
+``` js
 
 
 function digits() {
@@ -113,3 +116,4 @@ function digits() {
     });
 }
 digits();
+``` 
